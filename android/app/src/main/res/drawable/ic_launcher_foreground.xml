@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group android:translateX="18" android:translateY="18">
+        <!-- Wallet Base Body -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M12,20 C8.68,20 6,22.68 6,26 L6,58 C6,61.32 8.68,64 12,64 L60,64 C63.32,64 66,61.32 66,58 L66,26 C66,22.68 63.32,20 60,20 Z" />
+        <!-- Wallet Flap & Clasp -->
+        <path
+            android:fillColor="#0F4B8E"
+            android:pathData="M42,32 C42,28.68 44.68,26 48,26 L66,26 L66,52 L48,52 C44.68,52 42,49.32 42,46 Z" />
+        <!-- Wallet Button Clasp Center -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M52,39m-4,0a4,4 0 1,1 8,0a4,4 0 1,1 -8,0" />
+        <!-- Dollar Sign Accent Emblem -->
+        <path
+            android:fillColor="#0F4B8E"
+            android:pathData="M24,34 C24,32.9 24.9,32 26,32 L32,32 C33.1,32 34,32.9 34,34 C34,35.1 33.1,36 32,36 L28,36 C28,38 32,38 32,41 C32,43 28,43 28,43 L28,45 L26,45 L26,43 C24.9,43 24,42.1 24,41 L26,41 C26,41.55 26.45,42 27,42 L31,42 C31,40 27,40 27,37 C27,35 31,35 31,35 L31,33 L29,33 L29,35 C27.9,35 27,34.1 27,33 Z" />
+    </group>
+</vector>
